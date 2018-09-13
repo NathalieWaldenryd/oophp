@@ -6,20 +6,10 @@ Min me-sida i kursen oophp
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+![Mig](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/296053_1515702590009_415824169_n.jpg?_nc_cat=0&oh=274cda2ea64df43e4a013c9affad0302&oe=5C1C089A)
 
 Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Har alltid lika svårt att skriva om mig själv, heter Nathalie Waldenryd är 24 år och studerar heltid på BTH. Mina intressen utöver skolan samt programmering är datorspel i olika form. Tycker just nu väldigt mycket om spel som rainbow six siege och LoL. Dock så spelar jag det mesta, nu förtiden för att komma ut och träffa nya människor har jag börja spela ett spel som heter l5r eller legends of the five rings. Går jag till dragonslair vid kungsholmtorget varje onsdag och träffar nya människor. Har även börjat sticka nu eftersom att det är skönt att få koppla av och inte sitta framför en skärm helatiden faktist. Specielt nu när familjemedlemar har blivit sjuka så kan det också vara skönt att bara kunna gå någon annanstans och ta det lite lungt.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Nathalie Waldenryd

@@ -11,4 +11,4 @@ namespace Anax\View;
 
 ?>
 
-FOOTER
+Hello this is my footer. Thank you for reading this now here have a <a href="https://www.ambitiouskitchen.com/wp-content/uploads/2014/03/glutenfreecookies-6.jpg">cookie :)</a>

@@ -64,13 +64,12 @@ body {
 
 .outer-wrap-navbar a {
     color: #fff;
+    padding: 20px;
 }
 
 .outer-wrap-navbar a:hover {
     color: #ddd;
 }
-
-
 
 /**
  * Main
@@ -103,6 +102,13 @@ h1 {
     background-color: #424242;
     color: #fff;
     padding: 1em 0;
+}
+
+.outer-wrap-footer a:link,
+.outer-wrap-footer a:hover,
+.outer-wrap-footer a:active,
+.outer-wrap-footer a:visited {
+    color: cornflowerblue;
 }
 
 
