@@ -31,8 +31,19 @@ TIL php är inte så läskigt som jag kommer ihåg det. Tyckte ändå att det va
 Kmom02
 -------------------------
 
-Här är redovisningstexten
+Hur gick det att överföra spelet “Gissa mitt nummer” in i din me-sida?
 
+Det gick relativt ok, samt felsökte min session spel och gjorde att det fungerade som det ska och inte fastna på 5 försök kvar.
+
+Berätta om din syn på modellering likt UML jämfört med verktyg som phpDocumentor. Fördelar, nackdelar, användningsområde? Vad tycker du om konceptet make doc?
+
+Jag förstod faktist inte till 100% vad phpdoc gjorde, dock så gillar jag att den lägger upp och vissar alla klasser som finns och vilka saker som använder den. Dock så tyckte jag att den var lite jobbig att hitta i. Eftersom att jag såg att den inge gillade något med min kod när jag gjorde make doc. Men eftersom det mesta är från andra pages än vad jag har gjort så skippa jag dem. Såg dock att jag fick no summary was found och argument is missing from the docblock, och det hade t.ex samplecontroller också så visste inte om jag skulle fixa dem eller ej? Dock var det väldigt plockigt att hitta alla sidor i phpDocumentor.
+
+Hur känns det att skriva kod utanför och inuti ramverket, ser du fördelar och nackdelar med de olika sätten?
+Fördelar är ju att man kan ha många program på samma ställe medans om man kör det utanför så kan man nog göra lite mer special anpassade program än vad man annars skulle kunna göra. T.ex om jag gör ett program med fokus på poker så kanske det inte är det bästa att det hamnar med andra project som kanske ett program för att lära ungar bättre matte.
+
+Vilken är din TIL för detta kmom?
+php är fortfarande roligt. Samt såg att Docker försökte installera sig på projektet också (använder den för indivudella projektet) så stäng av docker innan man håller på med andra project.
 
 
 Kmom03
